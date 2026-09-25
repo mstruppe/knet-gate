@@ -6,7 +6,7 @@ Anyone — a person, Codex, Claude, any other agent — can add, change, or remo
 
 ## The one file
 
-`index.html` is the whole site. Styles are inline; there is no build step, no framework, no dependency. GitHub Pages serves the `main` branch as-is; `CNAME` holds the domain.
+`index.html` is the portal. `legal.html` contains its operator and privacy notice. Styles are inline; there is no build step, no framework, no dependency. GitHub Pages serves the `main` branch as-is; `CNAME` holds the domain.
 
 ## The card
 
@@ -44,10 +44,11 @@ The page is system-font, hairline cards, no colour. The tokens, both schemes, ar
 ## Two standing notes
 
 - **An address, not a brand.** The page shows the domain as plain text and carries no logo or wordmark. The names KNET and K-NET are obstructed as trademarks in Germany and the EU (clearance findings of 2026-08-18); until a clearance says otherwise, no page under this address presents them as a brand.
-- **The footer's two links** — the contact address and the legal notice — currently point at FRACTAL's. They work while FRACTAL's site is served. When the next card lands, or when FRACTAL's site goes away, this repository gets its own `legal.html` and its own contact line; that is the owner's act, and this note is its reminder.
+- **The footer's two links** — the contact address remains `fractal@knet.network`, and the legal notice is this repository's own `legal.html`. That notice covers the portal and the Research Studio download page; other projects retain their own notices.
 
 ## History
 
 - 2026-08-18 — opened as the umbrella's address, FRACTAL the first card (built in FRACTAL's sessions).
 - 2026-08-26 — the second card, The Shell.
 - 2026-09-24 — made autonomous: the Shell card withdrawn (the Shell stays reachable inside FRACTAL's site), this file written, the page's description generalised. From here on the gate is edited outside FRACTAL, by anyone following this file.
+- 2026-09-25 — added Research Studio's Mac download card and a shared operator and privacy notice for the portal and its download page.
